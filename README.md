@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tiago Teodoro</h1>
 <h3 align="center">front-end developer from Portugal</h3>
 
-- 🌱 I’m currently learning **Front-end**
+- 🌱 I’m currently learning **Front-end/UX UI Design**
 
 - 📫 How to reach me **tiagocteodoro@gmail.com**
 
